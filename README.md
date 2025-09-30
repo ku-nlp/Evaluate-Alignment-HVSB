@@ -1,4 +1,4 @@
-# **Do LLMs Align Human Values Regarding Social Biases?** *Judging and Explaining Social Biases with LLMs*
+# **Do LLMs Align Human Values Regarding Social Biases?** *Judging and Explaining Social Biases with LLMs* (EMNLP2025: Findings)
 
 
 <div align="center">
